@@ -1,0 +1,1 @@
+document.getElementById('book-list').innerHTML = '<p>Books will load here...</p>';
